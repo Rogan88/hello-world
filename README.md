@@ -1,5 +1,4 @@
 # hello-world
-Welcome to GitHub
 
 Hi Humans,
 
